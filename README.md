@@ -1,5 +1,5 @@
-Python 3.7
 
+Interpreter: Python 3.7
 
 DeepExplain reference: https://github.com/marcoancona/DeepExplain?tab=readme-ov-file
 
